@@ -5,4 +5,6 @@ React-based rendition of the New York Times Article Search application.
 -NodeJS <br>
 -MongoDB <br>
 -Express <br>
--and ReactJS 
+-and ReactJS <br>
+
+# Links
