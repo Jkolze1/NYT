@@ -91,7 +91,7 @@ var Main = React.createClass({
               </div>
               <div className="panel-body">
                 <ul className="list-group">
-                  Trump Does something
+                 
                 </ul>
               </div>
             </div>
@@ -102,5 +102,5 @@ var Main = React.createClass({
     )
   }
 });
-
+// Main
 module.exports = Main;

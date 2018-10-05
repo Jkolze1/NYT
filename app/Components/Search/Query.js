@@ -70,5 +70,5 @@ var Query = React.createClass({
   }
 
 });
-
+// Query
 module.exports = Query;
